@@ -14,7 +14,9 @@ I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.
 
 ### Deploy this project by clicking the next button at Glitch:
 
-[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/sets-ed-dev/17_deploy_at_glitch)
+**WARNING:** You should change the github user & repo name at the last 2 slashes for the button link.
+
+[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/sets-ed-dev/test-api-ws-nodejs)
 
 ### Academic Honesty
 
