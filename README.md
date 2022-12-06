@@ -12,11 +12,9 @@ This repository shares the code applied during the Youtube tutorial. The tutoria
 
 I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
-### Deploy this project by clicking the next button at Glitch:
+### Challenge 2: Deploy this project at Glitch.
 
-**WARNING:** You should change the github user & repo name at the last 2 slashes for the button link.
-
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/sets-ed-dev/test-api-ws-nodejs)
+**WARNING:** I coded many times the remix button but Glitch took too long for importing my project (and didn't work), instead the walkthrough that I take is at Glitch portal > Button "New proyect" > Import from GitHub.
 
 ### Academic Honesty
 
